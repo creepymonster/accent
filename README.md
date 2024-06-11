@@ -219,7 +219,7 @@ The full check that runs in the CI environment can be executed with `./priv/scri
 
 An Heroku-compatible `app.json` makes it easy to deploy the application on Heroku.
 
-<a href="https://heroku.com/deploy?template=https://github.com/mirego/accent">
+<a href="https://heroku.com/deploy?template=https://github.com/creepymonster/accent">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku" />
 </a>
 
